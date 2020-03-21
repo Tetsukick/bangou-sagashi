@@ -39,6 +39,7 @@ class ViewController: UIViewController, UIScrollViewDelegate{
     private var randomArray: [String] = ["","1","2","3","4","5","6","7","8","9","10","","","","",""]
     
     var gameCount:Int = 1
+    let finishedCount: Int = 11
     
     //top5の配列の定義
     internal var currentRecord: [TimeInterval] = []
@@ -206,7 +207,6 @@ class ViewController: UIViewController, UIScrollViewDelegate{
         //FirstViewControllerのインスタンスを生成
         let vc = FirstViewController()
         
-        vc.modalTransitionStyle = .partialCurl
         vc.modalPresentationStyle = .fullScreen
         // Viewの移動する.
         self.present(vc, animated: true, completion: nil)
@@ -240,7 +240,7 @@ class ViewController: UIViewController, UIScrollViewDelegate{
                     showLabel.font = UIFont.systemFont(ofSize: 100)
                     showLabel.text = String(randomArray[currentPage])
                     gameCount += 1
-                    if (gameCount == 11) {
+                    if (gameCount == finishedCount) {
                         timeStop()
                         goToFinish()
                     }
@@ -267,7 +267,7 @@ class ViewController: UIViewController, UIScrollViewDelegate{
                     showLabel.font = UIFont.systemFont(ofSize: 100)
                     showLabel.text = String(randomArray[currentPage])
                     gameCount += 1
-                    if (gameCount == 11) {
+                    if (gameCount == finishedCount) {
                         timeStop()
                         goToFinish()
                     }
@@ -293,7 +293,7 @@ class ViewController: UIViewController, UIScrollViewDelegate{
                     showLabel.font = UIFont.systemFont(ofSize: 100)
                     showLabel.text = String(randomArray[currentPage])
                     gameCount += 1
-                    if (gameCount == 11) {
+                    if (gameCount == finishedCount) {
                         timeStop()
                         goToFinish()
                     }
@@ -320,7 +320,7 @@ class ViewController: UIViewController, UIScrollViewDelegate{
                     showLabel.font = UIFont.systemFont(ofSize: 100)
                     showLabel.text = String(randomArray[currentPage])
                     gameCount += 1
-                    if (gameCount == 11) {
+                    if (gameCount == finishedCount) {
                         timeStop()
                         goToFinish()
                     }
@@ -341,7 +341,7 @@ class ViewController: UIViewController, UIScrollViewDelegate{
         fvc.playTime = self.playTime
         userDefaults.set(self.playTime, forKey:"NowTime")
         // アニメーションを設定する.
-        fvc.modalTransitionStyle = .partialCurl
+        fvc.modalPresentationStyle = .fullScreen
         
         // Viewの移動する.
         self.present(fvc, animated: true, completion: nil)
@@ -365,7 +365,6 @@ class ViewController: UIViewController, UIScrollViewDelegate{
         if timer.isValid == true {
             
             //timerを破棄する.
-            
             timer.invalidate()
             
         }
@@ -377,6 +376,4 @@ class ViewController: UIViewController, UIScrollViewDelegate{
         }
     }
     
-    
-
 }

@@ -27,8 +27,6 @@ class FinishViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
-        
         // 背景色をGreenに設定する.
         self.view.backgroundColor = UIColor.cyan
         
@@ -225,6 +223,7 @@ class FinishViewController: UIViewController {
         
         // navigationControllerのrootViewControllerにsecondViewControllerをセット.
         let nav = UINavigationController(rootViewController: inputNameVC)
+        nav.modalPresentationStyle = .fullScreen
         
         print("入ってるよー")
         

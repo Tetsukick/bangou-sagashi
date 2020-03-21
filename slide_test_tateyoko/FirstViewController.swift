@@ -45,7 +45,6 @@ class FirstViewController: UIViewController {
         
         // アニメーションを設定する.
         let vc = ViewController()
-        vc.modalTransitionStyle = .partialCurl
         vc.modalPresentationStyle = .fullScreen
         
         // Viewの移動する.
