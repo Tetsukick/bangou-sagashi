@@ -204,9 +204,12 @@ class ViewController: UIViewController, UIScrollViewDelegate{
     
     @objc func onClickMyButton(sender: UIButton){
         //FirstViewControllerのインスタンスを生成
-        let vc1 = FirstViewController()
+        let vc = FirstViewController()
+        
+        vc.modalTransitionStyle = .partialCurl
+        vc.modalPresentationStyle = .fullScreen
         // Viewの移動する.
-        self.present(vc1, animated: true, completion: nil)
+        self.present(vc, animated: true, completion: nil)
     }
 
     

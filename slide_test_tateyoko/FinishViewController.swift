@@ -207,14 +207,12 @@ class FinishViewController: UIViewController {
      ボタンイベント.
      */
     @objc internal func onClickMyButton(sender: UIButton){
-                //FirstViewControllerのインスタンスを生成
-                let vc1 = FirstViewController()
-        
-                // アニメーションを設定する.
-//                vc1.modalTransitionStyle = .partialCurl
-        
-                // Viewの移動する.
-                self.present(vc1, animated: true, completion: nil)
+        //FirstViewControllerのインスタンスを生成
+        let vc = FirstViewController()
+        vc.modalPresentationStyle = .fullScreen
+
+        // Viewの移動する.
+        self.present(vc, animated: true, completion: nil)
     }
     @objc internal func onClickMyButton2(sender: UIButton){
         print(2)

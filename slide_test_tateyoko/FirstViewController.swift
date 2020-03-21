@@ -44,12 +44,13 @@ class FirstViewController: UIViewController {
         print("スタート")
         
         // アニメーションを設定する.
-        ViewController().modalTransitionStyle = .partialCurl
+        let vc = ViewController()
+        vc.modalTransitionStyle = .partialCurl
+        vc.modalPresentationStyle = .fullScreen
         
         // Viewの移動する.
-        self.present(ViewController(), animated: true, completion: nil)
+        self.present(vc, animated: true, completion: nil)
     }
-    
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
