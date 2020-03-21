@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slide_test_tateyoko/ViewController.swift"
+            timestampString = "501650234.687272"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slide_test_tateyoko/ViewController.swift"
+            timestampString = "501659322.053916"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "394"
+            endingLineNumber = "394">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slide_test_tateyoko/ViewController.swift"
+            timestampString = "501650234.687272"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slide_test_tateyoko.ViewController.(randomArray in _F70F6814DECAB68E34E3B13F00E5BFC2).getter : Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "slide_test_tateyoko"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asia-quest/Desktop/intern%202017/slide_test_tateyoko/slide_test_tateyoko/ViewController.swift"
+                  timestampString = "500961955.186292"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slide_test_tateyoko.ViewController.(randomArray in _F70F6814DECAB68E34E3B13F00E5BFC2).setter : Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "slide_test_tateyoko"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asia-quest/Desktop/intern%202017/slide_test_tateyoko/slide_test_tateyoko/ViewController.swift"
+                  timestampString = "500961955.187738"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slide_test_tateyoko.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; slide_test_tateyoko.ViewController"
+                  moduleName = "slide_test_tateyoko"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asia-quest/Desktop/intern%202017/slide_test_tateyoko/slide_test_tateyoko/ViewController.swift"
+                  timestampString = "500961955.189152"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slide_test_tateyoko.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;slide_test_tateyoko.ViewController&gt;"
+                  moduleName = "slide_test_tateyoko"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asia-quest/Desktop/intern%202017/slide_test_tateyoko/slide_test_tateyoko/ViewController.swift"
+                  timestampString = "500961955.190564"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slide_test_tateyoko/FinishViewController.swift"
+            timestampString = "501647285.496647"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slide_test_tateyoko/ViewController.swift"
+            timestampString = "501650234.687272"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slide_test_tateyoko/ViewController.swift"
+            timestampString = "501650234.687272"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slide_test_tateyoko.ViewController.startTime.getter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Double&gt;"
+                  moduleName = "slide_test_tateyoko"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asia-quest/Desktop/intern%202017/slide_test_tateyoko/slide_test_tateyoko/ViewController.swift"
+                  timestampString = "501055080.612873"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slide_test_tateyoko.ViewController.startTime.setter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Double&gt;"
+                  moduleName = "slide_test_tateyoko"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asia-quest/Desktop/intern%202017/slide_test_tateyoko/slide_test_tateyoko/ViewController.swift"
+                  timestampString = "501055080.614305"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slide_test_tateyoko.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; slide_test_tateyoko.ViewController"
+                  moduleName = "slide_test_tateyoko"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asia-quest/Desktop/intern%202017/slide_test_tateyoko/slide_test_tateyoko/ViewController.swift"
+                  timestampString = "501055080.615697"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slide_test_tateyoko.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;slide_test_tateyoko.ViewController&gt;"
+                  moduleName = "slide_test_tateyoko"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asia-quest/Desktop/intern%202017/slide_test_tateyoko/slide_test_tateyoko/ViewController.swift"
+                  timestampString = "501055080.617094"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slide_test_tateyoko/InputNameViewController.swift"
+            timestampString = "501146779.053654"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "textFieldDidBeginEditing(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slide_test_tateyoko/FinishViewController.swift"
+            timestampString = "501647934.655484"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slide_test_tateyoko/FinishViewController.swift"
+            timestampString = "501647934.655484"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slide_test_tateyoko/InputNameViewController.swift"
+            timestampString = "501146779.053654"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "onClickMyButton(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
